@@ -22,10 +22,12 @@
     "**/.*",
     "Makefile",
     "bower.json",
+    "codegen.py",
     "package.json",
     "index.html",
     "tests.html",
     "tests.js",
+    "testsgen.py",
     "vendor"
   ],
   "dependencies": {},
